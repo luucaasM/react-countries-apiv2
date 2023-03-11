@@ -12,7 +12,7 @@ El desafío se enfoca en mejorar las habilidades en diseño web utilizando HTML,
 ## Solución
 
 Para la resolución se utilizó React, un Hook para el fetch y useContext para permitir a los componentes utilizar la información de los paises. 
-- Módulos externos: Material Icons, Tailwind CSS, React Router Dom 
+- Módulos externos: [Material Icons](https://mui.com/material-ui/material-icons/), [Tailwind CSS](https://tailwindcss.com/), [React Router v6](https://reactrouter.com/en/main) 
 
 ## Deploy
 
