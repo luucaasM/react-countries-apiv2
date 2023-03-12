@@ -15,5 +15,4 @@ Para la resolución se utilizó React, un Hook para el fetch y useContext para p
 - Módulos externos: [Material Icons](https://mui.com/material-ui/material-icons/), [Tailwind CSS](https://tailwindcss.com/), [React Router v6](https://reactrouter.com/en/main) 
 
 ## Deploy
-
-[Buscador de paises](mellow-horse-c0aa96.netlify.app/)
+mellow-horse-c0aa96.netlify.app/
